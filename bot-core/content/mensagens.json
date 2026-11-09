@@ -1,0 +1,23 @@
+{
+  "primeira_semana": [
+    "Oi, {nome}! Como foi o dia hoje? Teve algo que você não soube fazer?",
+    "E aí, {nome}, como foi hoje? Alguma coisa te deixou na dúvida?",
+    "Oi, {nome}! Conseguiu descansar depois do turno? Como você está se sentindo?",
+    "{nome}, teve algum momento legal hoje na loja?",
+    "Oi, {nome}! Qual foi a coisa mais difícil de hoje?"
+  ],
+  "geral": [
+    "Oi, {nome}, tudo bem? Como estão as coisas na loja essa semana?",
+    "{nome}, passando pra saber como você está. Mudou alguma coisa desde a nossa última conversa?",
+    "Oi! Tem algo que você aprendeu esses dias e gostaria de compartilhar, {nome}?",
+    "Como está o clima com a equipe, {nome}?"
+  ],
+  "marcos": {
+    "7": "Hoje você completa 1 semana na Kallopolli, {nome}! 🎉 Como você se sente agora, comparado ao primeiro dia?",
+    "15": "Já são 15 dias, {nome}! O que está ficando mais fácil e o que ainda pega?",
+    "30": "1 mês de casa! 🙌 {nome}, o que você diria que aprendeu de mais importante até aqui?",
+    "45": "45 dias, {nome}, metade do caminho! Como está o seu ritmo no trabalho?",
+    "60": "60 dias! {nome}, faltam 30 para fechar a experiência. Como você se vê daqui pra frente?",
+    "90": "{nome}, você chegou aos 90 dias! 🎉 Como foi essa jornada pra você?"
+  }
+}

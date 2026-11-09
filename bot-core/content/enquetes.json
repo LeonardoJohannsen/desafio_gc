@@ -1,0 +1,20 @@
+[
+  {"id": "bem-estar", "tema": "BEM_ESTAR", "pergunta": "Como você está se sentindo na loja até agora?",
+   "resposta": "Valeu por contar! 🙌",
+   "opcoes": [{"id": "bem", "rotulo": "Muito bem 😊"}, {"id": "mais-ou-menos", "rotulo": "Mais ou menos"},
+              {"id": "dificil", "rotulo": "Está difícil", "sinal": "DESMOTIVACAO", "sugestao": "vale uma conversa ainda hoje"}]},
+  {"id": "curso-x-loja", "tema": "TREINAMENTO", "pergunta": "O que te ensinaram na loja bate com o que você viu no curso online?",
+   "resposta": "Obrigado! Isso ajuda a Kallopolli a alinhar o treinamento. 📚",
+   "opcoes": [{"id": "igual", "rotulo": "Bate certinho"}, {"id": "parte", "rotulo": "Em parte"},
+              {"id": "diferente", "rotulo": "É bem diferente"}, {"id": "sem-curso", "rotulo": "Não fiz curso online"}]},
+  {"id": "carga", "tema": "CARGA", "pergunta": "Como está a sua carga de trabalho?",
+   "resposta": "Anotado, obrigado! 🙂",
+   "opcoes": [{"id": "leve", "rotulo": "Leve"}, {"id": "boa", "rotulo": "Boa"}, {"id": "pesada", "rotulo": "Pesada"},
+              {"id": "pesada-demais", "rotulo": "Pesada demais", "sinal": "SOBRECARGA", "sugestao": "vale rever a escala e conversar nos próximos dias"}]},
+  {"id": "a-quem-procurar", "tema": "APOIO", "pergunta": "Você sabe a quem procurar quando tem uma dúvida no turno?",
+   "resposta": "Valeu! Se precisar, eu também estou por aqui. 🙌",
+   "opcoes": [{"id": "sim", "rotulo": "Sei sim"}, {"id": "mais-ou-menos", "rotulo": "Mais ou menos"}, {"id": "nao", "rotulo": "Não sei"}]},
+  {"id": "apoio-equipe", "tema": "MENTORIA", "pergunta": "Alguém da equipe tem te ajudado no dia a dia?",
+   "resposta": "Obrigado por responder! 🙌",
+   "opcoes": [{"id": "muito", "rotulo": "Sim, bastante"}, {"id": "as-vezes", "rotulo": "Às vezes"}, {"id": "quase-nada", "rotulo": "Quase nada"}]}
+]

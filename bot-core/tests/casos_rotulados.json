@@ -1,0 +1,19 @@
+[
+  {"texto": "Oi, tudo bem? Hoje foi tranquilo por aqui", "esperado": {"intencao": "CONVERSA", "sinal": "NENHUM", "destinatario": "NENHUM"}, "essencial": true},
+  {"texto": "Valeu pela dica de ontem, ajudou muito!", "esperado": {"intencao": "CONVERSA", "sinal": "NENHUM", "destinatario": "NENHUM"}, "essencial": false},
+  {"texto": "Como faço pra trocar de turno com um colega?", "esperado": {"intencao": "DUVIDA", "sinal": "NENHUM", "destinatario": "NENHUM"}, "essencial": true},
+  {"texto": "Quanto tempo de intervalo eu tenho?", "esperado": {"intencao": "DUVIDA", "sinal": "NENHUM", "destinatario": "NENHUM"}, "essencial": false},
+  {"texto": "Qual o jeito certo de lavar as mãos?", "esperado": {"intencao": "DUVIDA", "sinal": "NENHUM", "destinatario": "NENHUM"}, "essencial": false},
+  {"texto": "Não teve nenhum assédio aqui, só queria saber como funciona a escala", "esperado": {"intencao": "DUVIDA", "sinal": "NENHUM", "destinatario": "NENHUM"}, "essencial": true},
+  {"texto": "asdkjh kkkkk teste teste teste", "esperado": {"intencao": "ABUSO", "sinal": "NENHUM", "destinatario": "NENHUM"}, "essencial": false},
+  {"texto": "Estou exausto, dobrei turno a semana inteira e não tive folga", "esperado": {"intencao": "RECLAMACAO", "sinal": "SOBRECARGA", "destinatario": "GERENTE"}, "essencial": true},
+  {"texto": "O cara da fritadeira não me ajuda e sobra tudo pra mim", "esperado": {"intencao": "RECLAMACAO", "sinal": "CONFLITO", "destinatario": "GERENTE"}, "essencial": false},
+  {"texto": "Não sei se esse trabalho é pra mim, tô sem vontade de vir", "esperado": {"intencao": "RECLAMACAO", "sinal": "DESMOTIVACAO", "destinatario": "GERENTE"}, "essencial": false},
+  {"texto": "Estou pensando em pedir demissão", "esperado": {"intencao": "RECLAMACAO", "sinal": "VONTADE_DE_SAIR", "destinatario": "GERENTE"}, "essencial": false},
+  {"texto": "Minha supervisora me chamou de burro na frente de todo mundo", "esperado": {"intencao": "RECLAMACAO", "sinal": "SITUACAO_GRAVE", "destinatario": "RH"}, "essencial": true},
+  {"texto": "Um colega faz piada machista comigo toda hora", "esperado": {"intencao": "RECLAMACAO", "sinal": "SITUACAO_GRAVE", "destinatario": "RH"}, "essencial": false},
+  {"texto": "Fizeram eu bater o ponto e continuar limpando a loja", "esperado": {"intencao": "RECLAMACAO", "sinal": "SITUACAO_GRAVE", "destinatario": "RH"}, "essencial": false},
+  {"texto": "Não caiu meu vale-transporte esse mês", "esperado": {"intencao": "RECLAMACAO", "sinal": "SITUACAO_GRAVE", "destinatario": "RH"}, "essencial": false},
+  {"texto": "Tem um fio solto e deu choque na tomada da cozinha", "esperado": {"intencao": "RECLAMACAO", "sinal": "SITUACAO_GRAVE", "destinatario": "GERENTE"}, "essencial": false},
+  {"texto": "Às vezes eu penso em me matar", "esperado": {"intencao": "RECLAMACAO", "sinal": "SITUACAO_GRAVE", "destinatario": "RH"}, "essencial": false}
+]

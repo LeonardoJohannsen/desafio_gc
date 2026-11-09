@@ -1,0 +1,18 @@
+[
+  {"id": "lavar-maos", "semana": 1, "tema": "Higiene", "titulo": "Lavar as mãos do jeito certo",
+   "texto": "Leva só 20 segundos: molhe, use sabonete, esfregue palmas, costas das mãos, dedos e unhas, enxágue e seque com papel. Lave sempre ao chegar, depois do banheiro, do lixo e ao trocar de tarefa.\n\nVocê já tem esse hábito no seu turno?"},
+  {"id": "uniforme", "semana": 1, "tema": "Rotina", "titulo": "Uniforme em dia",
+   "texto": "Uniforme completo e limpo, cabelo preso, unhas curtas e sem adornos nas mãos quando for mexer com alimentos. Parece detalhe, mas é o que mais pesa na primeira impressão do cliente.\n\nTem algum item que você ainda está se acostumando a usar?"},
+  {"id": "cliente-irritado", "semana": 2, "tema": "Atendimento", "titulo": "Cliente irritado? Respire e siga 4 passos",
+   "texto": "1) Ouça sem interromper. 2) Peça desculpas pelo transtorno. 3) Repita o problema para mostrar que entendeu. 4) Ofereça uma solução ou chame o gerente. Nunca discuta com o cliente.\n\nJá aconteceu alguma situação assim com você?"},
+  {"id": "piso-molhado", "semana": 2, "tema": "Segurança", "titulo": "Piso molhado: sinalize na hora",
+   "texto": "Viu o chão molhado? Coloque a placa na hora, avise quem está por perto e limpe assim que der. Piso molhado sem sinalização é um dos acidentes mais comuns, e dá para evitar em 10 segundos.\n\nVocê sabe onde fica a placa na sua loja?"},
+  {"id": "fritadeira", "semana": 3, "tema": "Segurança", "titulo": "Fritadeira: o cuidado que protege você",
+   "texto": "Use sempre avental e luvas indicadas, nunca coloque alimento molhado ou com gelo no óleo quente e, se tiver dúvida no equipamento, chame o treinador antes de tentar.\n\nAlguma coisa na fritadeira ainda te deixa inseguro(a)?"},
+  {"id": "pedido-errado", "semana": 4, "tema": "Atendimento", "titulo": "Pedido errado no caixa",
+   "texto": "Avise o cliente, chame o líder do turno para autorizar o cancelamento e refaça o pedido. Não cancele sozinho(a): isso protege você e a loja.\n\nVocê já passou por isso ou ainda não?"},
+  {"id": "troca-de-turno", "semana": 5, "tema": "Rotina", "titulo": "Como trocar de turno com um colega",
+   "texto": "Combine com o colega e peça a autorização do gerente com pelo menos 24 horas de antecedência. Sem autorização, a troca não vale.\n\nSe precisar trocar algum dia, você já sabe com quem falar?"},
+  {"id": "a-quem-procurar", "semana": 6, "tema": "Apoio", "titulo": "A quem procurar quando tiver dúvida",
+   "texto": "Para dúvidas do dia a dia, fale com o seu treinador ou com o gerente. Para assuntos delicados, o RH tem um canal separado e sigiloso. E, entre uma conversa e outra, eu estou por aqui.\n\nTem algo que você deixou de perguntar por vergonha?"}
+]

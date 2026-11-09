@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WhatsApp fake · Parceiro dos 90 dias</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main class="stage">
+    <nav class="persona-tabs" id="tabs" aria-label="Quem está usando o celular"></nav>
+
+    <section class="phone" aria-label="Celular simulado">
+      <div class="status-bar"><span id="clock">9:41</span><span aria-hidden="true">5G ▂▄▆ 82%</span></div>
+      <header class="chat-header">
+        <span class="avatar" aria-hidden="true">90</span>
+        <div><strong>Parceiro dos 90 dias</strong><small id="bot-status">online</small></div>
+      </header>
+
+      <div class="messages" id="messages" aria-live="polite"></div>
+
+      <footer class="composer">
+        <div class="composer-row" id="row-text">
+          <input id="text-input" type="text" placeholder="Mensagem" autocomplete="off" aria-label="Escrever mensagem">
+          <button class="round" id="action-btn" type="button" aria-label="Gravar áudio"></button>
+        </div>
+        <div class="composer-row hidden" id="row-rec">
+          <button class="ghost" id="rec-cancel" type="button" aria-label="Descartar gravação"></button>
+          <span class="rec-dot" aria-hidden="true"></span>
+          <span class="rec-time" id="rec-time" role="timer">0:00</span>
+          <span class="rec-label">Gravando…</span>
+          <button class="round" id="rec-send" type="button" aria-label="Enviar áudio"></button>
+        </div>
+      </footer>
+    </section>
+    <p class="hint" id="mode-hint"></p>
+  </main>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
